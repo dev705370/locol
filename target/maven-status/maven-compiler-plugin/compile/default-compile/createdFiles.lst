@@ -1,0 +1,4 @@
+com\locol\db\entities\User.class
+com\locol\db\services\DBService.class
+com\locol\db\entities\watchers\UserWatcher.class
+com\locol\user\register\rest\UserRegistration.class
