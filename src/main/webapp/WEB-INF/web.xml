@@ -5,7 +5,7 @@
     "http://java.sun.com/dtd/web-app_2_3.dtd">
 
 <web-app>
-	<servlet>
+	<!-- <servlet>
 		<servlet-name>Jersey REST Service</servlet-name>
 		<servlet-class>
 			com.sun.jersey.spi.container.servlet.ServletContainer
@@ -19,5 +19,5 @@
 	<servlet-mapping>
 		<servlet-name>Jersey REST Service</servlet-name>
 		<url-pattern>/rest/*</url-pattern>
-	</servlet-mapping>
+	</servlet-mapping> -->
 </web-app>    
